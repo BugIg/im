@@ -15,6 +15,7 @@
 
 ###HTML
 [htmlbook](http://htmlbook.ru/)
+[BootstrapTour - создания тура по страницы](http://bootstraptour.com/)
 
 ###REACTJS
 Test
