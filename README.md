@@ -8,6 +8,7 @@
 [Пишем плагин для jQuery](https://habrahabr.ru/post/158235/)
 
 ###SQL
+
 mysql -u root -p
 SET GLOBAL sql_mode='';
 SET SESSION sql_mode='';
